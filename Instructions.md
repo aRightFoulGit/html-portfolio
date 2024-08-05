@@ -30,7 +30,7 @@
   - (Hint: use the MDN docs for things you don't know how to do: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/footer
 
 - [x] Save the index.html file and open it in a web browser to ensure that it displays correctly.
-- [ ] Add your website to your GitHub to start building your portfolio.
+- [x] Add your website to your GitHub to start building your portfolio.
 - [ ] Publish your website using GitHub pages and share it here (in the Q&A) with other students.
 - [ ] Comment and make suggestions to other students' projects.
 
